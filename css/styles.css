@@ -1,0 +1,34 @@
+body {
+
+    background: steelblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    transition: 1s;
+
+}
+
+h1 {
+
+    color: whitesmoke;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    transition: 1s;
+
+}
+
+body:hover {
+
+    background-color: aquamarine;
+    
+}
+
+body:hover h1{
+
+    color: black;
+    
+}
+
+
+
