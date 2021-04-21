@@ -60,10 +60,10 @@ kbd {
   height: 10rem;
   text-align: center;
   background: grey;
-  border-radius: .5em;s
+  border-radius: .5em;
 
   /* Change mouse pointer */
-  cursor:pointer;
+  cursor: pointer;
   -webkit-user-select: none;
       -moz-user-select: none;
       -ms-user-select: none;
